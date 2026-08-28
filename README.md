@@ -11,7 +11,7 @@
   <b>Android developer crafting clean, functional mobile apps.</b>
 </p>
 
-<a href="https://visitcount.itsvg.in"><img src="" alt="Profile views" /></a>
+<img src="https://komarev.com/ghpvc/?username=Himanshu-Vinchurkar12&label=Profile%20Views&color=0e75b6&style=flat" />
 <img src="https://img.shields.io/github/followers/Himanshu-Vinchurkar12?label=Followers&style=social" alt="GitHub followers" />
 <img src="https://img.shields.io/github/stars/Himanshu-Vinchurkar12?label=Stars&style=social" alt="GitHub stars" />
 
