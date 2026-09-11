@@ -39,7 +39,6 @@
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Himanshu-Vinchurkar12/Himanshu-Vinchurkar12/output/github-contribution-grid-snake.svg">
 </picture>
 
-<sub>Requires the <code>snk</code> GitHub Action — see setup notes at the bottom.</sub>
 
 </div>
 
