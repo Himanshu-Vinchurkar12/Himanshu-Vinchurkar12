@@ -48,16 +48,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Himanshu-Vinchurkar12&show_icons=true&theme=radical&hide_border=true&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Himanshu-Vinchurkar12&show_icons=true&theme=default&hide_border=true&count_private=true">
-  <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Himanshu-Vinchurkar12&show_icons=true&theme=radical&hide_border=true&count_private=true">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-Vinchurkar12&layout=compact&theme=radical&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-Vinchurkar12&layout=compact&theme=default&hide_border=true">
-  <img width="42%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-Vinchurkar12&layout=compact&theme=radical&hide_border=true">
-</picture>
+
 
 <br/>
 
@@ -74,7 +65,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu-Vinchurkar12&theme=react-dark&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu-Vinchurkar12&theme=minimal&hide_border=true">
-  <img width="95%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu-Vinchurkar12&theme=react-dark&hide_border=true">
+
 </picture>
 
 </div>
@@ -94,19 +85,8 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🏆 Trophies
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Himanshu-Vinchurkar12&theme=radical&no-frame=true&row=1&column=7">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Himanshu-Vinchurkar12&theme=flat&no-frame=true&row=1&column=7">
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Himanshu-Vinchurkar12&theme=radical&no-frame=true&row=1&column=7">
-</picture>
-
-</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
