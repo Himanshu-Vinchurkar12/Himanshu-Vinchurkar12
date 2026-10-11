@@ -2,8 +2,9 @@
 <div align="center">
 
 <!-- Animated typing header -->
+
 <a href="https://github.com/Himanshu-Vinchurkar12">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Himanshu+Vinchurkar+%F0%9F%91%8B;Android+%7C+Kotlin+%7C+Java+Developer;Building+with+Firebase+%26+SQLite;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Himanshu+Vinchurkar+%F0%9F%91%8B;Android+%7C+Kotlin+%7C+Java+Developer;Building+with+Firebase+%26+SQLite;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
 
 <p>
